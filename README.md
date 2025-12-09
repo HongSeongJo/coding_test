@@ -2,6 +2,7 @@
 
 ### 브론즈
 - 1000 - A + B(https://www.acmicpc.net/problem/1000)
+- 1330 - 두 수 비교하기(https://www.acmicpc.net/problem/1330)
 - 2557 - Hello World(https://www.acmicpc.net/problem/2557)
 - 2588 - 곱셈(https://www.acmicpc.net/problem/2588)
 - 10171 - 고양이(https://www.acmicpc.net/problem/10171)
