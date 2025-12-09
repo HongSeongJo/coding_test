@@ -7,6 +7,7 @@
 - 10926 - ??!(https://www.acmicpc.net/problem/10926)
 - 18108 - 1998년생인 내가 태국에서는 2541년생?!(https://www.acmicpc.net/problem/18108)
 - 10430 - 나머지(https://www.acmicpc.net/problem/10430)
+- 11382 - 꼬마 정민(https://www.acmicpc.net/problem/11382)
 ### 실버
 
 
