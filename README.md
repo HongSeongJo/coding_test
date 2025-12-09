@@ -1,10 +1,7 @@
 # 코딩 테스트 연습
 
-### 기초
-
-
 ### 브론즈
-
+- 2557 - Hello World(https://www.acmicpc.net/problem/2557)
 
 ### 실버
 
